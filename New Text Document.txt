@@ -1,0 +1,16 @@
+conditions   ???????
+
+
+AAABdw0ODAoPeNp9kU9Pg0AQxe98ChIveoAAtlWbkFhhDxhKG6C1Jl62dEpXWyCzC9pvL/+MrQWPw
+/Lm/d6bq3CXy5MMZWMk68ZYG41vNdmyQ9nQ9HspRoBkl2YZoOqyCBIOZMMESxOTeCHx574TEMnLD
+2vA2XbBAbmp6JKVJoJGwqMHMGPK1mnxAQlNHuMDZXs1Sg/SO0OqXujmOUY7ysGmAswKQNEGinEnt
+dbhMYN6pzWbTolvORP354l8ZQyPJ7phpWs5yLS07QEJAAtAxzafXuyFsrSchTJ7Xa0UL7SGDWWG6
+SaPhFoNCk+34pMiqOVaVoApMIfmt/56OkrsSlJCJqKii3rS/ENz0WTrU+ZyHTsgnuLq+kh/MAaaV
+E7m+Zd/FgeCogA0t3TPQZphTBPGaZ2wu08LoX7+e8J9A7Qs+SqxcdYKlMExQ8bbQm3gEbKstnl2/
+IkctDzydXOvm7exTAq6z2uvJkDfRbq6PjU/1f3ubOZvE6wSeTAsAhQYxWLHStYfBT691fuRHhL0n
+76enwIUcnEezfDiBUvlziNyUj0ESVtsqjM=X02ia
+
+
+http://localhost:8080/secure/ViewProfile.jspa
+
+http://localhost:8080/secure/RapidBoard.jspa?rapidView=1&view=planning.nodetail
